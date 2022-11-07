@@ -6,7 +6,7 @@ React application that uses GeoDB API and OpenWeatherMap API to show the forecas
 
 ## Features
 
-- Search for a city to show current weather and 7 day forecast.
+- Search for a city to show current weather as widget and 7 day forecast.
 - View the details such as wind speed, humudity, clouds, sea level.
 
 ## List of Potential Features Will Be Added to App:
