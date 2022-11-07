@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-React application that uses GeoDB API and OpenWeatherMap to able to show the forecast for searched city.
+React application that uses GeoDB API and OpenWeatherMap API to show the forecast for searched city.
 
 [You Can See the Project Here](https://kubilayture-react-weather-app.netlify.app/)
 
